@@ -1,0 +1,6 @@
+name: ondo
+main: JUNKR\ondo
+version: 1.0.0
+author: JUNKR
+api:
+  - 4.0.0
